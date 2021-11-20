@@ -216,7 +216,6 @@
 
 (setq org-confirm-babel-execute nil)
 
-
 (use-package lsp-mode
   :commands (lsp lsp-deferred)
   :init
