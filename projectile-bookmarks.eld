@@ -1,1 +1,1 @@
-("/smallmass/dev/OrbiterC/" "/smallmass/dev/maker/" "~/.emacs.d/" "/smallmass/dev/TheButterflyFuckUp/" "/smallmass/dev/WondererEngine/")
+("/smallmass/dev/8051_emulator/" "/smallmass/dev/OrbiterC/" "~/.emacs.d/" "~/.config/qtile/" "/smallmass/dev/maker/" "/smallmass/dev/TheButterflyFuckUp/" "/smallmass/dev/WondererEngine/")

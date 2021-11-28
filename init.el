@@ -258,6 +258,11 @@
   (yas-global-mode))
 
 
+(use-package multi-term
+  :config
+  (setq multi-term-program "/bin/zsh"))
+
+
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
@@ -266,7 +271,7 @@
  ;; If there is more than one, they won't work right.
  '(helm-minibuffer-history-key "M-p")
  '(package-selected-packages
-   '(helm-xref company yasnippet helm-lsp dap-mode which-key vterm use-package typescript-mode rainbow-delimiters org-bullets ivy-rich hydra helpful general forge flycheck evil-collection doom-themes doom-modeline counsel-projectile command-log-mode ccls))
+   '(multi-term exwm helm-xref company yasnippet helm-lsp dap-mode which-key vterm use-package typescript-mode rainbow-delimiters org-bullets ivy-rich hydra helpful general forge flycheck evil-collection doom-themes doom-modeline counsel-projectile command-log-mode ccls))
  '(safe-local-variable-values
    '((projectile-project-run-cmd . "bulid/maker.out")
 	 (projectile-project-run-cmd . "npm start")

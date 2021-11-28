@@ -1,0 +1,10 @@
+/smallmass/dev/8051_emulator/emulator/main.c
+/smallmass/dev/8051_emulator/emulator/#main.c#
+/smallmass/dev/8051_emulator/emulator/main.h
+/smallmass/dev/8051_emulator/emulator/#main.h#
+/smallmass/dev/8051_emulator/emulator/example_programs/test.asm
+/smallmass/dev/8051_emulator/emulator/example_programs/#test.asm#
+/smallmass/dev/8051_emulator/emulator/emulator.h
+/smallmass/dev/8051_emulator/emulator/#emulator.h#
+/smallmass/dev/8051_emulator/emulator/emulator.c
+/smallmass/dev/8051_emulator/emulator/#emulator.c#

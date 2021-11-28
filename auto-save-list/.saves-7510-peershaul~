@@ -1,11 +1,13 @@
+/home/peershaul/.config/qtile/config.py
+/home/peershaul/.config/qtile/#config.py#
 /smallmass/dev/OrbiterC/main.c
 /smallmass/dev/OrbiterC/#main.c#
+/smallmass/dev/OrbiterC/res/triangle_test/default.vert
+/smallmass/dev/OrbiterC/res/triangle_test/#default.vert#
 /smallmass/dev/OrbiterC/engine/visual/window.c
 /smallmass/dev/OrbiterC/engine/visual/#window.c#
 /smallmass/dev/OrbiterC/res/triangle_test/default.frag
 /smallmass/dev/OrbiterC/res/triangle_test/#default.frag#
-/smallmass/dev/OrbiterC/res/triangle_test/default.vert
-/smallmass/dev/OrbiterC/res/triangle_test/#default.vert#
 /smallmass/dev/OrbiterC/engine/base.h
 /smallmass/dev/OrbiterC/engine/#base.h#
 /smallmass/dev/OrbiterC/engine/visual/shader.c
